@@ -1,0 +1,8 @@
+const actionsTypes = {
+  SCREENREGISTER: 'SCREENREGISTER',
+  SCREENSIGNIN: 'SCREENSIGNIN',
+  REGISTER: 'SETREGISTER',
+  LOGIN: 'SETLOGIN'
+}
+
+export default actionsTypes 
